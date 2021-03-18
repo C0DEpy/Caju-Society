@@ -15,5 +15,5 @@ Veja a lista de comandos da Yuzaki clicando no link abaixo
 
 # Contribuindo
 Para contribuir com o desenvolvimento do bot você pode dar ideias do que colocar no bot o mesmo serve para reportar erros ou fazer perguntas sobre o bot clicando no link abaixo
-[Clique aqui](https://github.com/C0DEpy/Yuzaki/issues)
+[Clique aqui](https://github.com/C0DEpy/bvp/issues)
 
