@@ -1,6 +1,6 @@
 # BvP- Discord Bot
 
-[![Invite](https://img.shields.io/badge/Invite-Yuzaki%20Bot-40e0d0?style=for-the-badge)](https://discord.gg/R7caRn3wDR)
+[![Invite](https://img.shields.io/badge/Invite-BvP%20Bot-40e0d0?style=for-the-badge)](https://discord.gg/R7caRn3wDR)
 
 Um simples bot feito em NodeJS
 Criado por C0DE#6788
