@@ -5,8 +5,8 @@
 Um simples bot feito em NodeJS
 Criado por C0DE#6788
 
-# Servidor de suporte
-Entre no servidor de Suporte do Bot clicando no link abaixo
+# Servidor da BvP
+Entre no servidor da BvP
 [Clique aqui](https://discord.gg/R7caRn3wDR)
 
 # Documentação
