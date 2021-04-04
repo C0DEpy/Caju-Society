@@ -1,13 +1,13 @@
-# BvP- Discord Bot
+# Yuzaki Tsukasa - BOT
 
-[![Invite](https://img.shields.io/badge/Invite-BvP%20Bot-40e0d0?style=for-the-badge)](https://discord.gg/R7caRn3wDR)
+[![Invite](https://img.shields.io/badge/Invite-BvP%20Bot-40e0d0?style=for-the-badge)](https://discord.com/oauth2/authorize?client_id=794361961483730964&scope=bot&permissions=8)
 
 Um simples bot feito em NodeJS
 Criado por C0DE#6788
 
-# Servidor da BvP
-Entre no servidor da BvP
-[Clique aqui](https://discord.gg/R7caRn3wDR)
+# Servidor de Suporte
+Entre no servidor da Yuzaki
+[Clique aqui](https://discord.gg/gQJ3dtCJJv)
 
 # Documentação
 Veja a lista de comandos da Yuzaki clicando no link abaixo
