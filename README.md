@@ -1,6 +1,6 @@
 # Caju Society - BOT
 
-[![Invite](https://img.shields.io/badge/Invite-Caju%20Society%20Bot-40e0d0?style=for-the-badge)](https://discord.gg/XUBY5xre)
+[![Invite](https://img.shields.io/badge/Servidor-Caju%20Society%20Bot-40e0d0?style=for-the-badge)](https://discord.gg/XUBY5xre)
 
 Um simples bot feito em NodeJS
 Criado por C0DE#6788
