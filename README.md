@@ -9,6 +9,10 @@ Criado por C0DE#6788
 Entre no servidor da Padaria 🍞
 [Clique aqui](https://discord.gg/FdqsPEG7m3)
 
+# Site
+Site da Padaria
+[Clique aqui](https://c0depy.github.io/Padaria/)
+
 # Documentação
 Veja a lista de comandos do BOT clicando no link abaixo
 [Clique aqui](https://froggdrugs.gitbook.io/padariabot/)
